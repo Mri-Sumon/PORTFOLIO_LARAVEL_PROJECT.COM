@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    display: flex;
+    justify-content: center;
+}
+#registrationForm {
+    width: 450px;
+    border: 1px solid gray;
+    border-radius: 0.6rem;
+}
